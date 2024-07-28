@@ -368,7 +368,7 @@
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "cc6e190f-de91-4753-af87-0547e82c6810")
+			(uuid "88e1e7ba-deb7-454c-9773-df58d1c1cb5b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -379,7 +379,7 @@
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "7e82b40e-1dda-49c6-9124-f5d88f23621e")
+			(uuid "206d186e-cbfa-400b-9516-ca95f892b759")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -430,7 +430,7 @@
 			(remove_unused_layers no)
 			(pinfunction "Pin_4")
 			(pintype "passive")
-			(uuid "a941b873-11ea-4705-b7c6-e9057cbeb7d9")
+			(uuid "5742757c-ce14-484b-8942-3392089f5a1d")
 		)
 	)
 	(footprint ""
@@ -441,7 +441,7 @@
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "cc6e190f-de91-4753-af87-0547e82c6810")
+			(uuid "8f9de5c6-6057-4fc9-8f62-bba5e1ba1149")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -452,7 +452,7 @@
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "7e82b40e-1dda-49c6-9124-f5d88f23621e")
+			(uuid "c6f0ad67-c346-433c-8951-942db343cd65")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -503,7 +503,7 @@
 			(remove_unused_layers no)
 			(pinfunction "Pin_4")
 			(pintype "passive")
-			(uuid "a941b873-11ea-4705-b7c6-e9057cbeb7d9")
+			(uuid "718596c2-e592-4eec-93c1-bb5585aef8bd")
 		)
 	)
 	(footprint ""
@@ -514,7 +514,7 @@
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "cc6e190f-de91-4753-af87-0547e82c6810")
+			(uuid "88c78b5f-dd4b-49b4-a13b-57ca030e0b3e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -525,7 +525,7 @@
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "7e82b40e-1dda-49c6-9124-f5d88f23621e")
+			(uuid "a9f021fe-e78f-47aa-949a-cfe456b66c99")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -576,7 +576,7 @@
 			(remove_unused_layers no)
 			(pinfunction "Pin_4")
 			(pintype "passive")
-			(uuid "a941b873-11ea-4705-b7c6-e9057cbeb7d9")
+			(uuid "9fb055ab-7129-4c7c-ab97-50295723ca2d")
 		)
 	)
 	(footprint ""
@@ -587,7 +587,7 @@
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "cc6e190f-de91-4753-af87-0547e82c6810")
+			(uuid "ab7fd3b3-d763-46ea-b5e3-4a25a84b6cc8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -598,7 +598,7 @@
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "7e82b40e-1dda-49c6-9124-f5d88f23621e")
+			(uuid "6ffd390b-df6c-4496-a812-06fd73fd02d4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -649,7 +649,7 @@
 			(remove_unused_layers no)
 			(pinfunction "Pin_4")
 			(pintype "passive")
-			(uuid "a941b873-11ea-4705-b7c6-e9057cbeb7d9")
+			(uuid "acd3d92c-25ec-4aaf-ab19-120fbd69df5a")
 		)
 	)
 	(footprint ""
@@ -660,7 +660,7 @@
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "cc6e190f-de91-4753-af87-0547e82c6810")
+			(uuid "190241dd-8e26-4a8b-a3f1-c0884a655310")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -671,7 +671,7 @@
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "7e82b40e-1dda-49c6-9124-f5d88f23621e")
+			(uuid "178f51c8-3caf-4c7e-9646-87e546a98ee6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -722,7 +722,7 @@
 			(remove_unused_layers no)
 			(pinfunction "Pin_4")
 			(pintype "passive")
-			(uuid "a941b873-11ea-4705-b7c6-e9057cbeb7d9")
+			(uuid "4f872120-c0c2-42b3-8eb3-55860dd6c147")
 		)
 	)
 	(footprint ""
@@ -733,7 +733,7 @@
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "cc6e190f-de91-4753-af87-0547e82c6810")
+			(uuid "8bf46c58-19c2-4f48-8d07-63c196a3b0df")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -744,7 +744,7 @@
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "7e82b40e-1dda-49c6-9124-f5d88f23621e")
+			(uuid "6407b5e7-e21b-4e5e-bd59-1c5e757bc5d9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -795,7 +795,7 @@
 			(remove_unused_layers no)
 			(pinfunction "Pin_4")
 			(pintype "passive")
-			(uuid "a941b873-11ea-4705-b7c6-e9057cbeb7d9")
+			(uuid "48bccbb9-3bf3-4855-b97f-b66a76467d0d")
 		)
 	)
 	(footprint ""
@@ -806,7 +806,7 @@
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "cc6e190f-de91-4753-af87-0547e82c6810")
+			(uuid "c39f5d1e-8556-4e33-8b3d-e325b03918a1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -817,7 +817,7 @@
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "7e82b40e-1dda-49c6-9124-f5d88f23621e")
+			(uuid "19bfdd76-12f3-4e0a-b689-cc18506bef92")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -868,7 +868,7 @@
 			(remove_unused_layers no)
 			(pinfunction "Pin_4")
 			(pintype "passive")
-			(uuid "a941b873-11ea-4705-b7c6-e9057cbeb7d9")
+			(uuid "021135bc-8be3-46b6-94a6-e923eefd5cf0")
 		)
 	)
 	(footprint ""
@@ -879,7 +879,7 @@
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "cc6e190f-de91-4753-af87-0547e82c6810")
+			(uuid "a8dc15c1-5d90-42b0-b669-d81409ff4e4c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -890,7 +890,7 @@
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "7e82b40e-1dda-49c6-9124-f5d88f23621e")
+			(uuid "97ce8a77-0ceb-414a-b0d5-828195abb917")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -941,7 +941,7 @@
 			(remove_unused_layers no)
 			(pinfunction "Pin_4")
 			(pintype "passive")
-			(uuid "a941b873-11ea-4705-b7c6-e9057cbeb7d9")
+			(uuid "1180e8ea-a141-4c23-94eb-9483c3dd2a62")
 		)
 	)
 	(footprint ""
@@ -952,7 +952,7 @@
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "cc6e190f-de91-4753-af87-0547e82c6810")
+			(uuid "b78135ed-98b2-400d-930b-b661bfed27bd")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -963,7 +963,7 @@
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "7e82b40e-1dda-49c6-9124-f5d88f23621e")
+			(uuid "642ff9a2-ff29-4de1-89a9-f076b72221a3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1014,7 +1014,7 @@
 			(remove_unused_layers no)
 			(pinfunction "Pin_4")
 			(pintype "passive")
-			(uuid "a941b873-11ea-4705-b7c6-e9057cbeb7d9")
+			(uuid "73f6fc33-99a0-4ba8-a23e-19e19b875eff")
 		)
 	)
 	(footprint ""
@@ -1025,7 +1025,7 @@
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "cc6e190f-de91-4753-af87-0547e82c6810")
+			(uuid "436ae4d2-9603-4027-9d21-69b4e5f184d4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1036,7 +1036,7 @@
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "7e82b40e-1dda-49c6-9124-f5d88f23621e")
+			(uuid "fe0d623c-b749-4a9a-bc19-4e2a90bdb652")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1087,7 +1087,7 @@
 			(remove_unused_layers no)
 			(pinfunction "Pin_4")
 			(pintype "passive")
-			(uuid "a941b873-11ea-4705-b7c6-e9057cbeb7d9")
+			(uuid "bf56a48f-2eeb-4ac3-8704-2e04fa934bc7")
 		)
 	)
 	(footprint ""
@@ -1098,7 +1098,7 @@
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "cc6e190f-de91-4753-af87-0547e82c6810")
+			(uuid "a3566e51-42d8-4598-ac42-10899d1f735d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1109,7 +1109,7 @@
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "7e82b40e-1dda-49c6-9124-f5d88f23621e")
+			(uuid "e6bb9c37-dbf4-4717-b8b1-6f06c12988d5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1160,7 +1160,7 @@
 			(remove_unused_layers no)
 			(pinfunction "Pin_4")
 			(pintype "passive")
-			(uuid "a941b873-11ea-4705-b7c6-e9057cbeb7d9")
+			(uuid "9d8d1da9-7a2f-478f-9d77-90a411cca7b4")
 		)
 	)
 	(gr_arc
