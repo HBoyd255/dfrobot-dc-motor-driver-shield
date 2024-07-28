@@ -1887,7 +1887,7 @@
 			(xyz 0 0 0)
 		)
 	)
-	(model "C:/Users/Harry/OneDrive/04_Projects/Hardware/KiCadComponents/dfrobot-dc-motor-driver-shield/3DModels/DFRobot_DC_Motor_Driver_Shield.wrl"
+	(model "${DFRobot_DC_Motor_Driver_Shield}/3DModels/DFRobot_DC_Motor_Driver_Shield.wrl"
 		(offset
 			(xyz 0 0 3.5)
 		)
