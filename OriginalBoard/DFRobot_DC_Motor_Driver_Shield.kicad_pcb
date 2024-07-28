@@ -1163,6 +1163,18 @@
 			(uuid "9d8d1da9-7a2f-478f-9d77-90a411cca7b4")
 		)
 	)
+	(gr_poly
+		(pts
+			(xy 121.75 88) (xy 120.75 90) (xy 121.75 89.5) (xy 122.75 90)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.SilkS")
+		(uuid "7c31c721-c6d3-46e0-87a6-d3b930223ecd")
+	)
 	(gr_arc
 		(start 118.11 88.9)
 		(mid 118.481974 88.001974)
